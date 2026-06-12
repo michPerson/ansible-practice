@@ -1,0 +1,5 @@
+request:
+  ip: "192.168.1.10"
+  vlan: 100
+  network_zone: "test-private"
+  environment: "test"
